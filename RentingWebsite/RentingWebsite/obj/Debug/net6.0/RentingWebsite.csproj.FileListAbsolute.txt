@@ -1,0 +1,9 @@
+C:\Users\samet\Desktop\Proiect_Databases\RentingWebsite\RentingWebsite\obj\Debug\net6.0\RentingWebsite.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\Proiect_Databases\RentingWebsite\RentingWebsite\obj\Debug\net6.0\RentingWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\Proiect_Databases\RentingWebsite\RentingWebsite\obj\Debug\net6.0\RentingWebsite.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\Proiect_Databases\RentingWebsite\RentingWebsite\obj\Debug\net6.0\RentingWebsite.AssemblyInfo.cs
+C:\Users\samet\Desktop\Proiect_Databases\RentingWebsite\RentingWebsite\obj\Debug\net6.0\RentingWebsite.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\Proiect_Databases\RentingWebsite\RentingWebsite\obj\Debug\net6.0\RentingWebsite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\samet\Desktop\Proiect_Databases\RentingWebsite\RentingWebsite\obj\Debug\net6.0\RentingWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samet\Desktop\Proiect_Databases\RentingWebsite\RentingWebsite\obj\Debug\net6.0\RentingWebsite.RazorAssemblyInfo.cache
+C:\Users\samet\Desktop\Proiect_Databases\RentingWebsite\RentingWebsite\obj\Debug\net6.0\RentingWebsite.RazorAssemblyInfo.cs
